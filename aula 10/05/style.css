@@ -68,6 +68,28 @@ form button{
     cursor: pointer;
 }
 
-form button{
+form button:hover{
     background-color: #043264;
+}
+
+.whats a{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.whats a{
+    background-color: #25d366;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+}
+
+footer{
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
